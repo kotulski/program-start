@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Patryk\\.nuget\\packages\\": {}
+    "C:\\Users\\Beata\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Studia\\Programowanie\\program-start\\ConsoleApp2\\ConsoleApp2.csproj",
+      "projectUniqueName": "F:\\Studia\\Programowanie\\ConsoleApp2\\ConsoleApp2.csproj",
       "projectName": "ConsoleApp2",
-      "projectPath": "D:\\Studia\\Programowanie\\program-start\\ConsoleApp2\\ConsoleApp2.csproj",
-      "packagesPath": "C:\\Users\\Patryk\\.nuget\\packages\\",
-      "outputPath": "D:\\Studia\\Programowanie\\program-start\\ConsoleApp2\\obj\\",
+      "projectPath": "F:\\Studia\\Programowanie\\ConsoleApp2\\ConsoleApp2.csproj",
+      "packagesPath": "C:\\Users\\Beata\\.nuget\\packages\\",
+      "outputPath": "F:\\Studia\\Programowanie\\ConsoleApp2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Patryk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Beata\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
