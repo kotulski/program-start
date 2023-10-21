@@ -12,3 +12,17 @@ D:\Studia\Programowanie\program-start\ConsoleApp2\obj\Debug\net6.0\refint\Consol
 D:\Studia\Programowanie\program-start\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.pdb
 D:\Studia\Programowanie\program-start\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.genruntimeconfig.cache
 D:\Studia\Programowanie\program-start\ConsoleApp2\obj\Debug\net6.0\ref\ConsoleApp2.dll
+F:\Studia\Programowanie\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.exe
+F:\Studia\Programowanie\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.deps.json
+F:\Studia\Programowanie\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.runtimeconfig.json
+F:\Studia\Programowanie\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.dll
+F:\Studia\Programowanie\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.pdb
+F:\Studia\Programowanie\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Studia\Programowanie\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfoInputs.cache
+F:\Studia\Programowanie\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfo.cs
+F:\Studia\Programowanie\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+F:\Studia\Programowanie\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.dll
+F:\Studia\Programowanie\ConsoleApp2\obj\Debug\net6.0\refint\ConsoleApp2.dll
+F:\Studia\Programowanie\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.pdb
+F:\Studia\Programowanie\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.genruntimeconfig.cache
+F:\Studia\Programowanie\ConsoleApp2\obj\Debug\net6.0\ref\ConsoleApp2.dll
