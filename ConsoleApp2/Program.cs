@@ -1,14 +1,28 @@
-﻿internal class Program
+﻿using System;
+using System.IO;
+
+internal class Program
 {
+    /// <summary>
+    /// Procedura główna aplikacji
+    /// </summary>
+    /// <param name="args"> Parametry wejściowe w postaci tablicy tekstowej </param>
     private static void Main(string[] args)
     {
         Console.WriteLine("Hello, Patryk!");
-        int wynik = Dodawanie();
-        Console.WriteLine(wynik);
+        Kielbasa();
+
+        Console.ReadLine();
     }
 
-    private static Int16 Dodawanie()
+    /// <summary>
+    /// 
+    /// </summary>
+    private static void Kielbasa()
     {
-        return 2 + 3;
+        Console.WriteLine($"Kielbasa");
+        // TextReader tr = File.OpenText("D:\\Studia\\Programowanie\\program-start\\README.md");
+        // Console.WriteLine(tr.ReadToEnd());
     }
+
 }
