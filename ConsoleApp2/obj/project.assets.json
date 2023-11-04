@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Beata\\.nuget\\packages\\": {}
+    "C:\\Users\\Patryk\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Studia\\Programowanie\\ConsoleApp2\\ConsoleApp2.csproj",
+      "projectUniqueName": "D:\\Studia\\Programowanie\\program-start\\ConsoleApp2\\ConsoleApp2.csproj",
       "projectName": "ConsoleApp2",
-      "projectPath": "F:\\Studia\\Programowanie\\ConsoleApp2\\ConsoleApp2.csproj",
-      "packagesPath": "C:\\Users\\Beata\\.nuget\\packages\\",
-      "outputPath": "F:\\Studia\\Programowanie\\ConsoleApp2\\obj\\",
+      "projectPath": "D:\\Studia\\Programowanie\\program-start\\ConsoleApp2\\ConsoleApp2.csproj",
+      "packagesPath": "C:\\Users\\Patryk\\.nuget\\packages\\",
+      "outputPath": "D:\\Studia\\Programowanie\\program-start\\ConsoleApp2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Beata\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Patryk\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
